@@ -117,7 +117,7 @@ sudo apt install ffmpeg
 
 ---
 
-⚠ Notes
+ Notes
 
 Make sure the image is large enough to store the entire audio file.
 
