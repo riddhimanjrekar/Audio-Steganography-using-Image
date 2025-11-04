@@ -85,7 +85,7 @@ Decode Tab: Select a stego-image to extract the hidden audio file.
 
 (Add a screenshot here if available)
 
-[GUI Preview]
+![GUI Preview](./GUI Preview.png)
 
 
 ---
