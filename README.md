@@ -83,8 +83,6 @@ Encode Tab: Choose an image and audio file, then save the stego-image.
 Decode Tab: Select a stego-image to extract the hidden audio file.
 
 
-(Add a screenshot here if available)
-
 ![GUI Preview](https://github.com/riddhimanjrekar/Audio-Steganography-using-Image/blob/main/GUI%20Preview.png?raw=true)
 
 
